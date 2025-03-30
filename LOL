@@ -16,13 +16,7 @@ local main = Library:new{
 	},
 }
 
- Tab:Notification({
- Text = "MainText",
- Title = "Title",
- ActiveTime = 5
- })
-
-local Tab1 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab1"})
+ local Tab1 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab1"})
 
 local label = Tab:Label({
 	Name = "Label"
