@@ -18,10 +18,6 @@ local main = Library:new{
 
  local Tab1 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab1"})
 
-local label = Tab:Label({
-	Name = "Label"
-})
-
 local btn = Tab:Button({
 	Name = "Hi Button", 
 	callback = function() print("Hi:)") end
