@@ -19,11 +19,11 @@ local main = Library:new{
 local Tab1 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab1"})
 
 
-local Tab2 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab2"})
+local Tab1 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab2"})
 
 
-local Tab3 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab3"})
+local Tab1 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab3"})
 
 
-local Tab4 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab4"})
+local Tab1 = Tab:CreateTab({Icon = "rbxassetid://83262328821985",Text = "Tab4"})
 
